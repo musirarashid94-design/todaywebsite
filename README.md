@@ -1,4 +1,4 @@
-# todaywebsite
+# travelwebsite
 
-go to website
-have fun!
+Go to the website
+Have fun!
